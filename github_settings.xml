@@ -1,7 +1,8 @@
 <application>
   <component name="GithubSettings">
-    <option name="HOST" value="https://github.com/jbinek/Java-Lab.git" />
-    <option name="VALID_GIT_AUTH" value="false" />
+    <option name="LOGIN" value="cookiebites" />
+    <option name="HOST" value="https://github.com/cookiebites/Java.git" />
+    <option name="AUTH_TYPE" value="BASIC" />
     <option name="CLONE_GIT_USING_SSH" value="true" />
   </component>
 </application>
